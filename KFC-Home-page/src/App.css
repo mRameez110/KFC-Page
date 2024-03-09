@@ -1,0 +1,41 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.menu-title {
+  border-bottom: 2px solid #ea002a;
+  border-bottom-width: 5px;
+  width: 50%;
+}
+.card {
+  background-color: #1c1816;
+  height: 320px;
+  margin-bottom: 50px;
+}
+.card img {
+  margin-top: -40px;
+}
+
+.card-body {
+  margin-top: -40px;
+}
+button {
+  margin-top: 5px;
+  border: 0px;
+  background-color: #ea002a !important;
+}
+.btn {
+  border: none;
+  border-bottom: none;
+}
+.productDes {
+  height: 50px;
+  overflow: hidden;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  /* Add your desired color property for the buttons */
+  color: #ff0000; /* Example: Red color */
+}
